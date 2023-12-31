@@ -7,7 +7,10 @@ use Illuminate\Http\Request;
 class tampilController extends Controller
 {
     public function login(){
+        return view('login');
+    }
 
-        return view('home.login');
+    public function homeindexadmin(){
+        return view('home.indexadmin.indexadmin');
     }
 }

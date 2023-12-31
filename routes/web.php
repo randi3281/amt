@@ -15,7 +15,8 @@ use Illuminate\Support\Facades\Route;
 
 // Tampil
 Route::get('/', 'App\Http\Controllers\tampilController@login')->name('login');
-Route::get('/', 'App\Http\Controllers\tampilController@')->name('login');
+Route::get('/home', 'App\Http\Controllers\tampilController@homeindexadmin')->name('homeindexadmin');
+// Route::get('/home', 'App\Http\Controllers\tampilController@homeindexadmin')->name('homeindexadmin');
 // End Tampil
 
 // Proses
