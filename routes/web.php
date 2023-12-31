@@ -13,4 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// Tampil
 Route::get('/', 'App\Http\Controllers\tampilController@login')->name('login');
+Route::get('/', 'App\Http\Controllers\tampilController@')->name('login');
+// End Tampil
+
+// Proses
+Route::post('/login', 'App\Http\Controllers\prosesController@login')->name('login');
+// End Proses
