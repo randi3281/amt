@@ -10,7 +10,7 @@
 <div class="row justify-content-center">
     <div class="col-md-5">
         <ul class="list-unstyled ms-4 mt-5 text-black">
-            <li>Jabatan : Admin</li>
+            <li>NIM</li>
             <hr>
             <li>Nama : </li>
             <hr>
@@ -18,7 +18,19 @@
             <hr>
             <li>Tempat, tanggal lahir : </li>
             <hr>
-            <li class="text-center mt-5"><a href="" class="text-decoration-none">Ganti Password</a></li>
         </ul>
     </div>
+    <div class="col-md-5">
+        <ul class="list-unstyled ms-4 mt-5 text-black">
+            <li>Kelas : </li>
+            <hr>
+            <li>Program Studi : </li>
+            <hr>
+            <li>Fakultas : </li>
+            <hr>
+            <li>Tahun Masuk : </li>
+            <hr>
+        </ul>
+    </div>
+    <div class="text-center mt-5"><a href="" class="text-decoration-none">Ganti Password</a></div>
 </div>

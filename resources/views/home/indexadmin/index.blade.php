@@ -11,9 +11,9 @@
 </head>
 
 <body>
-    <div class="container-fluid  h-100">
+    <div class="container-fluid h-100">
         <div class="row h-100">
-            <div class="col-3 bg-success text-light " style="height: 720px">
+            <div class="col-3 bg-success text-light " style="height: 1500px">
                 <div class="text-center">
                     <img class="mt-5" src="/image/photo.png" alt="" style="width: 170px; height: 170px">
                 </div>
@@ -29,7 +29,7 @@
             </div>
 
             <div class="col-9">
-                @include('home.indexadmin.profile')
+                @include('home.indexadmin.manajemenpengguna')
             </div>
         </div>
         <div class="row h-100">

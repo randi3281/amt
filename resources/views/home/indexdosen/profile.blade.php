@@ -4,30 +4,21 @@
 </div>
 
 <div class="text-center mt-3">
-    <a class="text-decoration-none">Edit Foto</a>
+    <a class="text-decoration-none" href="">Edit Foto</a>
 
 </div>
 <div class="row justify-content-center">
     <div class="col-md-5">
         <ul class="list-unstyled ms-4 mt-5 text-black">
-            <li>NIM : </li>
+            <li>NIDN : </li>
             <hr>
             <li>Nama : </li>
             <hr>
             <li>Jenis Kelamin : </li>
             <hr>
             <li>Tempat, tanggal lahir : </li>
-        </ul>
-    </div>
-    <div class="col-md-5">
-        <ul class="list-unstyled ms-4 mt-5 text-black">
-            <li>Kelas :</li>
             <hr>
-            <li>Program Studi : </li>
-            <hr>
-            <li>Fakultas : </li>
-            <hr>
-            <li>Tahun Masuk : </li>
+            <li class="text-center mt-5"><a href="" class="text-decoration-none">Ganti Password</a></li>
         </ul>
     </div>
 </div>
