@@ -15,7 +15,7 @@
         <div class="row h-100">
             <div class="col-3 bg-success text-light " style="height: 1500px">
                 <div class="text-center">
-                    <img class="mt-5" src="/image/photo.png" alt="" style="width: 170px; height: 170px">
+                    <img class="mt-5" src="/image/photo.jpeg" alt="" style="width: 170px; height: 170px">
                 </div>
                 <h5 class="text-center mt-3">Randi Afif</h4>
                     <ul class="list-unstyled ms-4 mt-5">
@@ -29,7 +29,7 @@
             </div>
 
             <div class="col-9">
-                @include('home.indexdosen.profile')
+                @include('home.indexdosen.tugas')
             </div>
         </div>
         <div class="row h-100">

@@ -1,6 +1,6 @@
 <h2 class="text-center mb-5 mt-5">Profil Pengguna</h2>
 <div class="text-center">
-    <img class="" src="/image/photo_black.png" alt="" style="width: 170px; height: 170px">
+    <img class="" src="/image/photo_black.jpeg" alt="" style="width: 170px; height: 170px">
 </div>
 
 <div class="text-center mt-3">
@@ -10,7 +10,7 @@
 <div class="row justify-content-center">
     <div class="col-md-5">
         <ul class="list-unstyled ms-4 mt-5 text-black">
-            <li>Jabatan : Admin</li>
+            <li>Jabatan : Dosen</li>
             <hr>
             <li>Nama : </li>
             <hr>

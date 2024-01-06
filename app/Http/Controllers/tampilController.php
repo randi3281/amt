@@ -11,6 +11,10 @@ class tampilController extends Controller
     }
 
     public function homeindex(){
-        return view('home.indexadmin.index');
+        return view('home.indexdosen.index');
+    }
+
+    public function tugas(){
+        return view('home.indexdosen.index');
     }
 }
